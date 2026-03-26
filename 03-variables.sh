@@ -1,5 +1,5 @@
 #!/bin/bash
-persion1=shreeja
+persion1=dayana
 persion2=sangeetha
 echo "$persion1:: hi $persion2"
 echo "$persion2:: hi $persion1"
