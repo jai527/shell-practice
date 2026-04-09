@@ -3,8 +3,8 @@
 Number=$1
 
 if [ Number -gt 20 ];then
-  echo "given number: $Number is greathen 20"
+  echo "given number: $Number is greater then 20"
   else 
-   echo "give number: $Number is lessthen 20"
+   echo "give number: $Number is less then 20"
 
  fi  
