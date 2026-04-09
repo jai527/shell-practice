@@ -6,4 +6,5 @@ if (today != sunday)
 
  elese{
    print("go to school")
- } 
+ 
+ }
