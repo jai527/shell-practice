@@ -8,7 +8,7 @@ echo "sum: $sum"
 
 #array
 
-fruits=("banana apple orange mango")
+fruits=("banana","apple, "orange", "mango")
   echo "all fruits: ${fruits[@]}"
   echo "first fruit is: ${fruits[0]}"
   echo "second fruit is: ${fruits[1]}"
