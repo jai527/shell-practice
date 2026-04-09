@@ -10,4 +10,6 @@ echo "sum: $sum"
 
 fruits=("banana apple orange mango")
   echo "all fruits: ${fruits[@]}"
-  echo "first fruits ${fruits[0]}"
+  echo "first fruit is ${fruits[0]}"
+  echo "second fruit is ${fruits[1]}"
+  echo "thired fruit is ${fruits[2]}"
