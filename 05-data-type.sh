@@ -2,6 +2,11 @@
 
 number1=550
 number2=990
-hello=$(($number1-$number2))
+sum=$(($number1-$number2))
 
-echo "hello: $hello"
+echo "sum: $sum"
+
+#array
+
+fruits=("banana apple orange mango")
+  echo "all fruits: ${fruits[@]}"
