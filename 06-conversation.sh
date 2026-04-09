@@ -1,7 +1,7 @@
 #!/bin/bash
 
-today=wednsday
-if (today ! = sunday) {
+today=wednesday
+if (today != sunday){
 print ("not go to school")
 }
 elese{
