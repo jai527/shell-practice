@@ -2,4 +2,4 @@
 
 timestamp=$(dtae)
 
-echo "script exicuted at $timestamp"
+echo "script exicuted at: $timestamp"
